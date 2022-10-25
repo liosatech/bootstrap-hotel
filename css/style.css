@@ -15,7 +15,6 @@ body{
     padding-bottom: 400px;
 }
 header{
-    color: black;
     font-size: 13px;
 }
 .fa-magnifying-glass{
@@ -32,6 +31,12 @@ header{
 .nav-marg{
     margin-left: 40%;
     padding-top: 1%;
+}
+.btn-color{
+    border: #13222c;
+}
+.nav-butColor{
+    color: black;
 }
 .rond-1{
     top: 11px;
@@ -227,6 +232,44 @@ footer p{
     .text-space-1{
         margin-left: 0%;
     }
+    .spasing-2{
+        margin: 0%;
+        padding: 0%;
+    }
+    .spasing-1{
+        margin: 0%;
+        padding: 0%;
+    }
+    .btn-color{
+        background-color: black;
+        margin-left: 30%;
+    }
+    .btn-color span{
+        color: white;
+    }
+    .forms-color{
+        font-size: 11px;
+    }
+    .but2{
+        margin-left: 30px;
+    }
+    .header-size{
+        width: 70%;
+        padding-left: 10%;
+    }
+    .size-1{
+        padding: 0%;
+        margin: 0%;
+        width: 40%;
+        font-size: 8px;
+    }
+    .text-size-1{
+        width: 0px;
+    }
+    .texts-1{
+        margin-left: -100px;
+    }
+
 }
 .hiden{
     overflow: hidden;
